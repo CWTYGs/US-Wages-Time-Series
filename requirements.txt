@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+statsmodels
+pymannkendall
+ydata-profiling
+prophet
+arch
+lightgbm
+scikit-learn
+tensorflow
+seaborn
