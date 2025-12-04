@@ -214,6 +214,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+timeseries/
 
 # Spyder project settings
 .spyderproject
