@@ -12,3 +12,5 @@ tensorflow
 seaborn
 jupyter
 ipykernel
+tqdm
+openpyxl
